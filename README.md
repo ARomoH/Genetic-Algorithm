@@ -13,5 +13,5 @@ At the top of Main.class, the next parameters must be modified depending of your
 - **mutationRate**: probability of one gen within a genome is changed by mutation method. 
 - **uniformRate**: probability of one gen within a genome is inherited by its "father" or its "mother".
 
-Futhermore, it is necessary to define cost/fitness function depending on the problem that you want to solve.
+Futhermore, it is necessary to define cost/fitness function (in "INSERT YOUR CODE HERE" comments) depending on the problem that you want to solve.
 

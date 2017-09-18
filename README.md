@@ -2,10 +2,10 @@
 Proyect developed in Java 1.8 to solve optimization problems minimizing cost/fitness function associated by user.
 
 ## Introduction
-This proyect was originally create for optimizing several metrics in a maritime environment. The parameters of this tool was coded tp represent all of metrics in a binary genome of size 14.
+This proyect was originally create for optimizing several metrics in a maritime environment. The parameters of this tool was coded to represent all of metrics in a binary genome of size 14.
 
 ## Execution
-At the top of Main.class, the next parameters must be modified depending of your problem:
+At the top of Main.class, the next parameters must be modified depending of the problem:
 - **populationSize**: number of individuals in population.
 - **tourSize**: number of inidivuals that compete in tournaments.
 - **n_iter**: number of iterations.
